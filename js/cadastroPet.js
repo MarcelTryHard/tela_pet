@@ -8,5 +8,6 @@ function enviarCadastro(){
 }
 
 function validarNome(){
-    
+
+
 }
